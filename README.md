@@ -1,3 +1,0 @@
-# Anfia Public Depot Portfolio
-
-Testing...
