@@ -1,0 +1,5 @@
+User-agent: *
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Disallow: /
